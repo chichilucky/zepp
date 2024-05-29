@@ -1,6 +1,7 @@
 # WeChat_Run
 注意！本项目必须下载注册**Zepp_life**并绑定微信 账号（Email or phone）和密码 就是你的Zeep_life的账号和密码<br>
 使用Python和Github Actions每日定时WeChat（微信）刷步
+利用 https://motion.faithxy.com/motion网站  刷步
 # 使用 & 配置
 ## 请先Fork本项目
 如下配置完后在Actions启动试试<br>
